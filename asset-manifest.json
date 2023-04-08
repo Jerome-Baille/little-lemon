@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/little-lemon/static/css/main.6e1706b9.css",
+    "main.js": "/little-lemon/static/js/main.57881bf1.js",
+    "static/js/787.a2f6b77c.chunk.js": "/little-lemon/static/js/787.a2f6b77c.chunk.js",
+    "static/media/bruchetta.jpg": "/little-lemon/static/media/bruchetta.16d6ccbad3536c2d7979.jpg",
+    "static/media/restaurant.jpg": "/little-lemon/static/media/restaurant.324d0f99bdf19400a0f7.jpg",
+    "static/media/Mario and Adrian A.jpg": "/little-lemon/static/media/Mario and Adrian A.203fb860148d7ba21245.jpg",
+    "static/media/Mario and Adrian b.jpg": "/little-lemon/static/media/Mario and Adrian b.f0a46c0361a7f592f29a.jpg",
+    "static/media/vecteezy_404-landing-page_6549647.jpg": "/little-lemon/static/media/vecteezy_404-landing-page_6549647.38da77fa310c806b1db8.jpg",
+    "static/media/greek salad.jpg": "/little-lemon/static/media/greek salad.f4de2bb9ef7ae42a2cc5.jpg",
+    "static/media/restauranfood.jpg": "/little-lemon/static/media/restauranfood.eb2d23992f3fdffb8e8d.jpg",
+    "static/media/Logo.svg": "/little-lemon/static/media/Logo.f72c913c48c5334f78f2c336ec36f22b.svg",
+    "index.html": "/little-lemon/index.html",
+    "static/media/scooter.svg": "/little-lemon/static/media/scooter.d94641b75763c324b3a19a07d4cb5a43.svg",
+    "main.6e1706b9.css.map": "/little-lemon/static/css/main.6e1706b9.css.map",
+    "main.57881bf1.js.map": "/little-lemon/static/js/main.57881bf1.js.map",
+    "787.a2f6b77c.chunk.js.map": "/little-lemon/static/js/787.a2f6b77c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e1706b9.css",
+    "static/js/main.57881bf1.js"
+  ]
+}
