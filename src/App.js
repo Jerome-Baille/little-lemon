@@ -1,15 +1,21 @@
 import './App.css';
-import Header from './components/Header';
-import Main from './components/Main';
-import Footer from './components/Footer';
+import { Routes, Route } from 'react-router-dom';
+import Layout from './components/Layout';
+import Home from './components/Home/Home';
+import Booking from './components/Booking';
+import Page404 from './components/Page404';
 
 function App() {
   return (
-    <div className="App">
-      <Header />
-      <Main />
-      <Footer />
-    </div>
+    <>
+      <Routes>
+        <Route path="/" element={<Layout />} exact >
+          <Route index element={<Home />} />
+          <Route path="booking" element={<Booking />} />
+          <Route path="*" element={<Page404 />} />
+        </Route>
+      </Routes>
+    </>
   );
 }
 
